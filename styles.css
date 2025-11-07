@@ -202,6 +202,11 @@
         transform: translateX(5px);
     }
 
+   .weeks img{
+        max-width: 100%;
+        height: auto;
+   }
+
     h2 {
         color: #a94a4e;
         margin-bottom: 25px;
@@ -218,4 +223,5 @@
         margin: 20px 0;
         line-height: 1.6;
     }
+
 </style>
